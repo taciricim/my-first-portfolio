@@ -7,10 +7,10 @@
   font-family: Helvetica;
 }
 :root {
-  --bg-color: #252525;
+  --bg-color: #303030;
   --second-bg-color: #101010;
   --text-color: white;
-  --main-color: #ea580c;
+  --main-color: #e97dce;
 }
 html {
   font-size: 60%;
@@ -53,8 +53,8 @@ body{
 span{
     background: linear-gradient(
         270deg,
-        #df8908 10%,
-        #ff1d15 100%
+        #b362ff 10%,
+        #e046d9 100%
     ); 
     background-clip: text;
     color: transparent;
@@ -77,8 +77,8 @@ span{
     border-radius: 3rem;
     background: linear-gradient(
         270deg,
-        #df8908 10%,
-        #ff1d15 100%
+         #b362ff 10%,
+         #e046d9 100%
     ); 
     letter-spacing: 1px;
     cursor: pointer;
